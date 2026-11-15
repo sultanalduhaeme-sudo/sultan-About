@@ -1,0 +1,31 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    direction: rtl;
+}
+
+header {
+    background-color: #1C2541;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #0B132B;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    color: gray;
+}
